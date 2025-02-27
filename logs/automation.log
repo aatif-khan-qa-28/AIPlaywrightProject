@@ -1,0 +1,9 @@
+2025-02-28 01:35:21 [main] INFO  AutomationLogger - Attempting to fill: 'Email Input Field' using locator: input[data-qa='signup-password']
+2025-02-28 01:35:21 [main] INFO  AutomationLogger - Fill failed for Email Input Field. Triggering self-healing via Gemini...
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - AI Suggested Locators for 'Email Input Field': [input[data-qa='signup-email'], form[action='/signup'] input[name='email'], div.signup-form input[type='email'], input[placeholder='Email Address'][name='email'], section#form input[type='email']]
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Self-healing succeeded using locator: input[data-qa='signup-email']
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Filling 'Email Input Field' using locator: input[data-qa='signup-email']
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Attempting to fill: 'Password Input Field' using locator: input[data-qa='signup-name']
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Filling 'Password Input Field' using locator: input[data-qa='signup-name']
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Attempting to click: 'Signup  Button' using locator: button[data-qa='signup-button']
+2025-02-28 01:35:23 [main] INFO  AutomationLogger - Clicking 'Signup  Button' using locator: button[data-qa='signup-button']

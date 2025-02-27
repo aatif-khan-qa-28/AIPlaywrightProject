@@ -1,0 +1,7 @@
+<suite name="AI Playwright Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="org.example.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
